@@ -8,3 +8,4 @@ To run:
 
 ``` exit ```
 
+Login to Slack and confirm that it is reporting. Mute the channel so you're not spammed with notifications. 
